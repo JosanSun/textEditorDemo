@@ -3,6 +3,9 @@
 [![Build Status](https://travis-ci.org/linyacool/WebServer.svg?branch=master)](https://travis-ci.org/linyacool/WebServer)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://opensource.org/licenses/MIT)
 
+> 这是[TextEditor](https://github.com/JosanSun/textEditor)的展示版。本版本采用Qt原生的Qt库设计完成，不涉及其他第三方库。
+
+
 ## 建仓库的目的
 
 1. 熟悉常用的Qt类的使用，eg:`QWidget`,`QAction`,`QMainWindow`,`QStatusBar`,`QToolBar`以及其他Qt类的用法.

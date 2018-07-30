@@ -34,20 +34,20 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+            <state relative-caret-position="527">
+              <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
               <folding>
-                <marker date="1532943330296" expanded="true" signature="41170:41212" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41170:41230" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41170:41243" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41170:41258" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41293:41676" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41306:41661" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41341:41647" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41360:41632" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41434:41612" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41474:41578" ph="..." />
-                <marker date="1532943330296" expanded="true" signature="41495:41556" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43341:43383" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43341:43401" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43341:43414" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43341:43429" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43464:43847" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43477:43832" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43512:43818" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43531:43803" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43605:43783" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43645:43749" ph="..." />
+                <marker date="1532943376375" expanded="true" signature="43666:43727" ph="..." />
               </folding>
             </state>
           </provider>
@@ -67,7 +67,7 @@
         <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="121" column="17" lean-forward="false" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+              <caret line="121" column="19" lean-forward="false" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -318,7 +318,7 @@
       <updated>1532940296081</updated>
       <workItem from="1532940297334" duration="107000" />
       <workItem from="1532942076841" duration="830000" />
-      <workItem from="1532942926806" duration="433000" />
+      <workItem from="1532942926806" duration="488000" />
     </task>
     <task id="LOCAL-00001" summary="测试IDE idea">
       <created>1532942304612</created>
@@ -355,15 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532943192311</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test03">
+      <created>1532943368525</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1532943368525</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1370000" />
+    <option name="totallyTimeSpent" value="1425000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -373,7 +379,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5063966" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.4936034" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -429,7 +435,8 @@
     <MESSAGE value="测试IDE idea" />
     <MESSAGE value="测试IDE idea01" />
     <MESSAGE value="test02" />
-    <option name="LAST_COMMIT_MESSAGE" value="test02" />
+    <MESSAGE value="test03" />
+    <option name="LAST_COMMIT_MESSAGE" value="test03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -468,17 +475,17 @@
         <state relative-caret-position="1326">
           <caret line="78" column="75" lean-forward="false" selection-start-line="78" selection-start-column="75" selection-end-line="78" selection-end-column="75" />
           <folding>
-            <marker date="1532943330296" expanded="true" signature="41170:41212" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41230" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41243" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41258" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41293:41676" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41306:41661" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41341:41647" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41360:41632" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41434:41612" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41474:41578" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41495:41556" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43383" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43401" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43414" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43429" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43464:43847" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43477:43832" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43512:43818" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43531:43803" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43605:43783" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43645:43749" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43666:43727" ph="..." />
           </folding>
         </state>
       </provider>
@@ -753,20 +760,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="75" column="21" lean-forward="true" selection-start-line="75" selection-start-column="21" selection-end-line="75" selection-end-column="21" />
+        <state relative-caret-position="527">
+          <caret line="82" column="21" lean-forward="true" selection-start-line="82" selection-start-column="21" selection-end-line="82" selection-end-column="21" />
           <folding>
-            <marker date="1532943330296" expanded="true" signature="41170:41212" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41230" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41243" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41170:41258" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41293:41676" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41306:41661" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41341:41647" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41360:41632" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41434:41612" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41474:41578" ph="..." />
-            <marker date="1532943330296" expanded="true" signature="41495:41556" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43383" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43401" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43414" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43341:43429" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43464:43847" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43477:43832" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43512:43818" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43531:43803" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43605:43783" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43645:43749" ph="..." />
+            <marker date="1532943376375" expanded="true" signature="43666:43727" ph="..." />
           </folding>
         </state>
       </provider>
@@ -782,7 +789,7 @@
     <entry file="file://$PROJECT_DIR$/mainwindow.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="121" column="17" lean-forward="false" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+          <caret line="121" column="19" lean-forward="false" selection-start-line="121" selection-start-column="19" selection-end-line="121" selection-end-column="19" />
           <folding />
         </state>
       </provider>

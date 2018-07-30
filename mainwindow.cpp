@@ -119,7 +119,7 @@ void MainWindow::dropEvent(QDropEvent *event)
         return ;
     }
 
-// test01  test02
+// test01  test02gi
     if(okToContinue())
     {
         loadFile(filePath);

@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
     QCoreApplication::setApplicationVersion(QT_VERSION_STR);
     QCoreApplication::setApplicationVersion("3.0");
 
-    // 增加命令行的支持
+    // 增加命令行的支持  modify
     QCommandLineParser parser;
     parser.setApplicationDescription(QCoreApplication::applicationName());
     parser.addHelpOption();

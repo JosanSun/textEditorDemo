@@ -119,6 +119,7 @@ void MainWindow::dropEvent(QDropEvent *event)
         return ;
     }
 
+// test01
     if(okToContinue())
     {
         loadFile(filePath);
